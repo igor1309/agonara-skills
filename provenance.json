@@ -1,0 +1,19 @@
+{
+  "upstreamCommit": "2b5e48f0f63bee211472c21bf3f81ef163f60733",
+  "hashAlgo": "sha256",
+  "trees": {
+    "curator/agonara-api-access": "8c9b1ca6b746af67458393e3ee0a3c958f22a3d298353bbde986a21c810ae44f",
+    "curator/agonara-curator-assessment": "69f1f8ff2404d315cf4498932b91a74152c1714e60ded7cf84df73ce25ac6ae2",
+    "curator/agonara-curator-corpus": "be702cda61cb8aa135f39bda96123913a4ea0a0834c64b7b6a46c75c88453b2a",
+    "curator/agonara-curator-participation": "cb4a37df86b72257b5889031398017453be83f7ff3fd03fc4b1e184c2dc8705d",
+    "curator/agonara-curator-research": "9d97df97ac226d6b97a9fbc04ad49aecb8c8dc1bc6b4589b218a3ad126d3145a",
+    "curator/agonara-membership": "4ba591a02e95bbc777836190b7d93bd060845d3697987202681489fc4219015c",
+    "student/agonara-api-access": "8c9b1ca6b746af67458393e3ee0a3c958f22a3d298353bbde986a21c810ae44f",
+    "student/agonara-coach": "aaf4e9075d2ef8339b6e29f6a0e8c668375ba716eae12a2f06595168f1b79759",
+    "student/agonara-membership": "4ba591a02e95bbc777836190b7d93bd060845d3697987202681489fc4219015c",
+    "student/agonara-student": "9a5d29be7257ad104a78162d07c7afb70716684a33f33ff897a01f5b9f29622c",
+    "student/assistant-authored-study-drills": "0eac205cda1c006cc39b6c0f4e5c22a916862e3b1a81436ac5864ee042b510db",
+    "student/button-quiz-loop": "d7216176bb2fdedc7e741a6a0a63260353ab19127bfc44c9454fedd2ed09371d",
+    "student/oral-exam-drills": "b694119e7c8b5a220b25a6f47d407161e9765315fda84b5c81e9cd1cff1c341f"
+  }
+}
